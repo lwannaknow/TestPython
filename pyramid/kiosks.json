@@ -1,0 +1,170 @@
+{
+  "M2-B103": {
+    "id": "M2-B103",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市徐汇区宜山路425号光启城(waven办公室)",
+    "geo_location": {
+      "latitude": 31.247547,
+      "longitude": 121.427106
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B123": {
+    "id": "M2-B123",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市闵行区虹桥火车站p9-p10停车场之间",
+    "geo_location": {
+      "latitude": 31.193700,
+      "longitude": 121.319850
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B135": {
+    "id": "M2-B135",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市闵行区虹桥火车站p9-p10停车场之间",
+    "geo_location": {
+      "latitude": 31.193700,
+      "longitude": 121.319850
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B136": {
+    "id": "M2-B136",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市闵行区虹桥火车站p9-p10停车场之间",
+    "geo_location": {
+      "latitude": 31.193700,
+      "longitude": 121.319850
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B138": {
+    "id": "M2-B138",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市浦东新区民生路1199弄证大五道口广场",
+    "geo_location": {
+      "latitude": 31.226690,
+      "longitude": 121.549950
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B139": {
+    "id": "M2-B139",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市浦东新区东方路989号中达广场",
+    "geo_location": {
+      "latitude": 31.221470,
+      "longitude": 121.529920
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B142": {
+    "id": "M2-B142",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市浦东新区东方路738号裕安大厦",
+    "geo_location": {
+      "latitude": 31.228540,
+      "longitude": 121.524660
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B146": {
+    "id": "M2-B146",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市浦东新区浦东南路1271号华融大厦",
+    "geo_location": {
+      "latitude": 31.226300,
+      "longitude": 121.517280
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B160": {
+    "id": "M2-B160",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市闵行区虹桥火车站p9-p10停车场之间",
+    "geo_location": {
+      "latitude": 31.193700,
+      "longitude": 121.319850
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B208": {
+    "id": "M2-B208",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市浦东新区杨高中路2112号界龙总部园413室",
+    "geo_location": {
+      "latitude": 31.231860,
+      "longitude": 121.556190
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B219": {
+    "id": "M2-B219",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市杨浦区中山北二路1121号同济科技大厦",
+    "geo_location": {
+      "latitude": 31.286730,
+      "longitude": 121.504310
+    },
+    "status": "offline",
+    "last_update": 0.0
+  },
+  "M2-B220": {
+    "id": "M2-B220",
+    "type": "kiosk",
+    "temp": 0,
+    "mkc_version": "",
+    "mid_version": "",
+    "location": "上海市虹口区四平路773号金大地商务楼",
+    "geo_location": {
+      "latitude": 31.272700,
+      "longitude": 121.497880
+    },
+    "status": "offline",
+    "last_update": 0.0
+  }
+}
